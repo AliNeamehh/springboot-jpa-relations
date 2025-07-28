@@ -10,7 +10,7 @@ This project demonstrates how to implement and manage different types of entity 
 
 ## 🧠 Technologies Used
 
-- Java 17+
+- Java 21
 - Spring Boot
 - Spring Data JPA
 - Hibernate
