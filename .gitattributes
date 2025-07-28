@@ -1,2 +1,24 @@
-/mvnw text eol=lf
-*.cmd text eol=crlf
+# Maven Wrapper
+/mvnw
+/mvnw.cmd
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Build output
+/target/
+
+# Logs
+logs/
+*.log
+
+# Java compiled class files
+*.class
+
+# System/OS files
+.DS_Store
+Thumbs.db
+
+# Environment files (secrets)
+.env
